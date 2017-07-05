@@ -98,7 +98,7 @@ void BluetoothJoypadReader::_initKeys()
     this->_axis_array[2]      = 0;
     this->_axis_array[3]      = 127;
     this->_axis_array[4]      = 127;
-    this->_axis_array[5]      = 127;
+    this->_axis_array[5]      = 0;
 }
 
 
